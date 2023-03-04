@@ -1,5 +1,9 @@
 # Road-Traffic-Severity-Classification
+
 ![image](https://user-images.githubusercontent.com/68380016/222876469-051dbc37-878f-44de-90b8-f85fd8bfa3b6.png)
+
+
+
 The Road Traffic Severity Classification project is a supervised machine learning project that aims to predict the severity of road accidents based on various features such as weather conditions, road surface conditions, and the number of vehicles involved in the accident. The dataset used in this project is obtained from the UK Department for Transport and consists of approximately 250,000 road accidents that occurred between 2005 and 2015.
 
 The project involves several steps such as data cleaning, exploratory data analysis, feature engineering, and model building. In the data cleaning step, missing values are imputed and irrelevant columns are dropped. In the exploratory data analysis step, the distribution of the target variable and the relationship between the features and the target variable are explored using visualizations. In the feature engineering step, new features are created from the existing features to improve the performance of the models.
