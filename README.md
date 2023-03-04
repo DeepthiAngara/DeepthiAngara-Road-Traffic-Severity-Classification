@@ -1,4 +1,4 @@
-# DeepthiAngara-Road-Traffic-Severity-Classification
+# Road-Traffic-Severity-Classification
 
 The Road Traffic Severity Classification project is a supervised machine learning project that aims to predict the severity of road accidents based on various features such as weather conditions, road surface conditions, and the number of vehicles involved in the accident. The dataset used in this project is obtained from the UK Department for Transport and consists of approximately 250,000 road accidents that occurred between 2005 and 2015.
 
